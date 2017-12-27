@@ -16,6 +16,9 @@ https://www.youtube.com/watch?v=mkualZPRZCs
 https://www.youtube.com/watch?v=KRLLjlpy0r4
 -android sdk set up, not sure if its current anymore
 
+https://www.youtube.com/watch?v=jsIlewXb_Q0&list=PLl6eqve20a7f2lJEw5lHUpqxG9dpOvVPp
+-create a quick game
+
 # gitignore file
 https://reactnatve.wordpress.com/2016/05/24/gitignore-for-react-native-project/
 
