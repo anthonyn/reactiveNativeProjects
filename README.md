@@ -6,6 +6,8 @@ This is a test project dump.
 using create-react-native-app
 https://facebook.github.io/react-native/docs/getting-started.html
 
+create-react-native-app AwesomeProject
+
 # Nice youtube vids
 
 https://www.youtube.com/watch?v=xb8uTN3qiUI
