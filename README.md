@@ -24,7 +24,7 @@ https://www.youtube.com/watch?v=jsIlewXb_Q0&list=PLl6eqve20a7f2lJEw5lHUpqxG9dpOv
 # Navagation Example
 https://stackoverflow.com/questions/45369861/stacknavigator-in-react-native-app
 https://snack.expo.io/B1nQSrdsg - works for iphone (not tested by me)
-https://snack.expo.io/Sk3W8egTl - works on my android phone from https://github.com/react-navigation/react-navigation/issues/713#issuecomment-291195091
+https://snack.expo.io/Sk3W8egTl - working *tabNavagitor* on my android phone from https://github.com/react-navigation/react-navigation/issues/713#issuecomment-291195091
 
 # gitignore file
 https://reactnatve.wordpress.com/2016/05/24/gitignore-for-react-native-project/
