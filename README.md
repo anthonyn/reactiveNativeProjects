@@ -23,6 +23,7 @@ https://www.youtube.com/watch?v=jsIlewXb_Q0&list=PLl6eqve20a7f2lJEw5lHUpqxG9dpOv
 
 # Navagation Example
 https://stackoverflow.com/questions/45369861/stacknavigator-in-react-native-app
+https://snack.expo.io/B1nQSrdsg
 
 # gitignore file
 https://reactnatve.wordpress.com/2016/05/24/gitignore-for-react-native-project/
