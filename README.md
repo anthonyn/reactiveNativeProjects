@@ -28,6 +28,9 @@ https://snack.expo.io/B1nQSrdsg - works for iphone (not tested by me)
 
 https://snack.expo.io/Sk3W8egTl - working *tabNavagitor* on my android phone from https://github.com/react-navigation/react-navigation/issues/713#issuecomment-291195091
 
+Working stackNavigaion guide, for rncr aswell
+https://reactnavigation.org/docs/intro/basic-app
+
 # gitignore file
 https://reactnatve.wordpress.com/2016/05/24/gitignore-for-react-native-project/
 
